@@ -55,10 +55,6 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
   email         = "email@example.com"
-  twitter       = "full profile url in twitter"
   instagram     = "https://instagram.com/selfcarebyiddy?igshid=YmMyMTA2M2Y="
-  youtube       = "full profile url in youtube"
   whatsapp      = "https://wa.me/85213377750"
