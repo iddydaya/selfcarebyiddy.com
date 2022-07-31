@@ -1,31 +1,29 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/portfolio/eyelashes-1.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "Perfect eyelashes"
 draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Add extra weight to every glance and wink with professionally-applied eyelash extensions.
+
+![Nail Art](/img/portfolio/eyelashes-1.jpg)
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Lashes are individual so we specialise in natural lash extensions designed in a unique style to perfectly match your eye and face shape – with precise lash isolation (one extension per natural lash).
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Our gentle, safe application method keeps your natural lashes in perfect condition so you can wear eyelash extensions for as long as you like – without any damage or discomfort.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+1. Natural IDR 100,000
+2. Volume IDR 150.000
+3. By request extra charge IDR 20,000
 
-## Header Level 2
+> Time needed approximately 60-90 minutes
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+![Nail Art](/img/portfolio/eyelashes-3.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+> We have thousands of hours experience so you’re guaranteed to get extensions you’ll love, every time.

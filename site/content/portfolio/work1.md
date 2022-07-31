@@ -1,31 +1,45 @@
 +++
-showonlyimage = true
+date = "2016-11-05T19:41:01+05:30"
+title = "Waxing"
 draft = false
-image = "img/portfolio/eyelashes-1.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Eyelashes"
-weight = 0
+image = "img/portfolio/wax-1.jpg"
+showonlyimage = false
+weight = 1
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+A hot wax treatment is the most effective way to remove hair on the legs and thighs. 
+
+![Nail Art](/img/portfolio/wax-1.jpg)
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+We use Sugar Wax.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+1. Eyebrow IDR 80,000
+2. Upper Lip IDR 40,000
+3. Chin IDR 25,000
+4. Under Arms IDR 35,000
+5. Half Leg IDR 95.000
+6. Full Leg IDR 180,000
+7. Half Arm IDR 80,000
+8. Full Arm IDR 150,000
+9. Bikini IDR 200,000
+10. Brazilian IDR 230,000
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+> Like our hair or skin, our nails and lashes reflect a sense of who we are, and should be groomed and cared for accordingly.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+![Waxing](/img/portfolio/wax-2.jpg)
 
-## Header Level 2
+### What to Expect When Waxing
+Waxing is the longest-lasting temporary hair removal technique available. When wax is warm, it enters the follicle, allowing the hair to be pulled out from the root. Hair grows back in 3 to 6 weeks. The disadvantage to waxing is that it can be painful for those with sensitive skin. And hair must grow back by 1cm before waxing again (this takes up to six weeks).
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+### What should you expect when waxing for the first time?
+First, a special preconditioning lotion for waxing (regular lotions and creams make the wax slip from the hair) is applied. Then hot wax is poured onto the skin and covered with strips of cloth. Once the wax hardens around each strand of hair, the cloth is quickly pulled off. Your skin should be pulled taut in the opposite direction from the way the strip will be removed.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The best antidote to the pain of waxing is to try to relax. According to many beauty practitioners, when a client is tense, the follicle closes and the wax doesn't reach the root of the hair. Immediately after waxing, apply gentle pressure to the area with your hands; icing the area also can help ease the pain. The more often you get a wax treatment, the more accustomed you'll grow to the experience.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Things to be aware of pre and post waxing:
+- No sun baking or heat treatments ie : solariums for 8-12 hours
+- No exercise for 8-12 hours
+- No makeup over waxed area for 12 hours
+- No deodorants on the area prior to waxing
