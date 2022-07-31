@@ -9,7 +9,7 @@ weight = 1
 
 A hot wax treatment is the most effective way to remove hair on the legs and thighs. 
 
-![Nail Art](/img/portfolio/wax-1.jpg)
+![Nail Art](/img/portfolio/wax-2.jpg)
 
 <!--more-->
 
@@ -28,7 +28,7 @@ We use Sugar Wax.
 
 > Like our hair or skin, our nails and lashes reflect a sense of who we are, and should be groomed and cared for accordingly.
 
-![Waxing](/img/portfolio/wax-2.jpg)
+![Waxing](/img/portfolio/wax-4.jpg)
 
 ### What to Expect When Waxing
 Waxing is the longest-lasting temporary hair removal technique available. When wax is warm, it enters the follicle, allowing the hair to be pulled out from the root. Hair grows back in 3 to 6 weeks. The disadvantage to waxing is that it can be painful for those with sensitive skin. And hair must grow back by 1cm before waxing again (this takes up to six weeks).

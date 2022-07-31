@@ -9,7 +9,8 @@ weight = 2
 
 Add extra weight to every glance and wink with professionally-applied eyelash extensions.
 
-![Nail Art](/img/portfolio/eyelashes-1.jpg)
+![Nail Art](/img/portfolio/eyelashes-4.jpg)
+*Hybrid Look*
 
 <!--more-->
 
@@ -24,6 +25,8 @@ Our gentle, safe application method keeps your natural lashes in perfect conditi
 
 > Time needed approximately 60-90 minutes
 
-![Nail Art](/img/portfolio/eyelashes-3.jpg)
+![Nail Art](/img/portfolio/eyelashes-1.jpg)
+*Natural Look*
+
 
 > We have thousands of hours experience so you’re guaranteed to get extensions you’ll love, every time.
