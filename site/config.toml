@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "Self Care By Iddy"
   copyright = "&copy;2022 Iddy Daya"
   sidebarAbout = [
-    "We have been providing self care services for 5 years here in Bali",
-    "Originally from Java, Iddy loves all aspects of self care"
+    "We believe that beautifully manicured hands increase a woman’s confidence, happiness and femininity."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
