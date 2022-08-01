@@ -3,7 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-I'm passionate about all aspects of self care and have been working in the modeling and beauty industry in Bali, Jakarta and Yogyakarta for the last 5 years. 
+I am passionate about all aspects of self care and have been working in the modeling and beauty industry in Bali, Jakarta and Yogyakarta for the last 5 years. 
 
 ![This is me](/img/aboutme-1.jpg)
 
