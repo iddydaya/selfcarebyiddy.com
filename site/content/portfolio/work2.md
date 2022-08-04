@@ -16,14 +16,16 @@ Our joy comes from seeing happy clients with beautiful, healthy nails.
 
 We specialise in nail art, hard gels, shellac & classic manicures, and pedicures.
 
-1. Manicure IDR 80,000 ( basic cleansing, file, shape, light cuticle work, no polish )
+1. Manicure IDR 75,000 ( basic cleansing, file, shape, light cuticle work, no polish )
 2. Pedicure IDR 95,000 ( basic cleansing, file, shape, light cuticle work, no polish )
-3. Nail Gel start IDR 105,000
+3. Nail Gel start IDR 110,000
 4. Nail Gel Extension start IDR 150,000
-5. Nail Repair start IDR 15,000/nail
-6. Gel Remove each finger IDR 5,000
-7. Remove extensions or Acrylic each finger start IDR 10,000 ( depends on type of nail polish )
-8. Nail art each finger IDR 5,000
+5. Acrylic start 250,000
+6. Acrylic Extension start 280,000
+7. Nail Repair start IDR 15,000/nail
+8. Gel Remove each finger IDR 5,000
+9. Remove extensions or Acrylic each finger start IDR 10,000 ( depends on type of nail polish )
+10. Nail art each finger IDR 5,000
 
 > Like our hair or skin, our nails and lashes reflect a sense of who we are, and should be groomed and cared for accordingly.
 
