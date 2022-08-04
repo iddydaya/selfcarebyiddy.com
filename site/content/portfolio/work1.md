@@ -13,9 +13,9 @@ A hot wax treatment is the most effective way to remove hair on the legs and thi
 
 <!--more-->
 
-We use Sugar Wax.
+We use Sugar Wax and Premium Wax
 
-1. Eyebrow IDR 80,000
+1. Eyebrow IDR 55,000
 2. Upper Lip IDR 40,000
 3. Chin IDR 25,000
 4. Under Arms IDR 35,000
