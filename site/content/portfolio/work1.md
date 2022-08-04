@@ -15,16 +15,29 @@ A hot wax treatment is the most effective way to remove hair on the legs and thi
 
 We use Sugar Wax and Premium Wax
 
+SUGAR WAX Price List :
 1. Eyebrow IDR 55,000
 2. Upper Lip IDR 40,000
 3. Chin IDR 25,000
 4. Under Arms IDR 35,000
 5. Half Leg IDR 95.000
-6. Full Leg IDR 180,000
+6. Full Leg IDR 185,000
 7. Half Arm IDR 80,000
-8. Full Arm IDR 150,000
+8. Full Arm IDR 155,000
 9. Bikini IDR 200,000
 10. Brazilian IDR 230,000
+
+PREMIUM Wax Price List :
+1. Eyebrow IDR 80,000
+2. Upper Lip IDR 65,000
+3. Chin IDR 50,000
+4. Under Arms IDR 70,000
+5. Half Leg IDR 120,000
+6. Full Leg IDR 235.000
+7. Half Arm IDR 100,000
+8. Full Arm IDR 195,000
+9. Bikini IDR 250,000
+10. Brazilian IDR 280,000
 
 > Like our hair or skin, our nails and lashes reflect a sense of who we are, and should be groomed and cared for accordingly.
 
