@@ -26,13 +26,9 @@ SUGAR WAX Price List :
 8. Full Arm IDR 155,000
 9. Bikini IDR 200,000
 10. Brazilian IDR 230,000
-
-a
-b
-
-c
-d
-
+       
+       
+       
 PREMIUM Wax Price List :
 1. Eyebrow IDR 80,000
 2. Upper Lip IDR 65,000
