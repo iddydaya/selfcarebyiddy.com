@@ -7,6 +7,15 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+[blackfriday]
+nofollowLinks = true
+noreferrerLinks = true
+plainIDAnchors = true
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
