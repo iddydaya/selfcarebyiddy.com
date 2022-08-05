@@ -28,6 +28,9 @@ SUGAR WAX Price List :
 10. Brazilian IDR 230,000
        
        
+       <br>
+       -
+       /
        
 PREMIUM Wax Price List :
 1. Eyebrow IDR 80,000
